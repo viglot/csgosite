@@ -1,6 +1,6 @@
 *{
     text-align: center;
-background-color: #191630;
+background-color: #241f47;
 color: #f7f7f7;
 }
 
@@ -10,6 +10,22 @@ color: #f7f7f7;
 
 #text2{
     font-size: 25px;
+}
+
+#box{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 5px black;
+justify-content: center;
+}
+
+#box2{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 5px black;
+justify-content: center;
 }
 
 
