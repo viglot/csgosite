@@ -1,7 +1,8 @@
 *{
     text-align: center;
 background-color: #241f47;
-color: #f7f7f7;
+color: #e9e9e9;
+
 }
 
 #text{
@@ -211,7 +212,74 @@ margin-right: 20px;
     margin-top: 50px;
     color: cyan;
 font-size: 50px;
+margin-right: 20px;
 }
+
+#box19{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    color: cyan;
+font-size: 50px;
+margin-right: 20px;
+}
+
+#box20{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    color: cyan;
+font-size: 50px;
+margin-right: 20px;
+}
+
+#box21{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    color: cyan;
+font-size: 50px;
+margin-right: 20px;
+}
+
+#box22{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    color: cyan;
+font-size: 50px;
+margin-right: 20px;
+}
+
+#box23{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    color: cyan;
+font-size: 50px;
+margin-right: 20px;
+}
+
+#box24{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    color: cyan;
+font-size: 50px;
+}
+
 
 
 
