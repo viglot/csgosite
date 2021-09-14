@@ -1,16 +1,17 @@
 *{
-    text-align: center;
 background-color: #241f47;
-color: #e9e9e9;
+color: #6d6d6d;
 
 }
 
-#text{
-    font-size: 40px;
+#head{
+  
+   color: white;
+
 }
 
-#text2{
-    font-size: 30px;
+#rifles{
+
 }
 
 
@@ -35,7 +36,7 @@ font-size: 50px;
     margin-right: 20px;
     color: cyan;
 font-size: 50px;
-
+text-align: center;
 }
 
 #box3{
@@ -47,7 +48,7 @@ font-size: 50px;
     margin-top: 50px;
     color: cyan;
 font-size: 50px;
-
+text-align: center;
 }
 
 #box4{
@@ -59,6 +60,7 @@ font-size: 50px;
     margin-right: 20px;
     color: cyan;
 font-size: 50px;
+text-align: center;
 }
 
 #box5{
@@ -70,6 +72,7 @@ font-size: 50px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box6{
@@ -81,6 +84,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box7{
@@ -92,6 +96,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box8{
@@ -103,6 +108,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box9{
@@ -114,6 +120,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box10{
@@ -125,6 +132,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box11{
@@ -136,6 +144,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box12{
@@ -147,6 +156,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box13{
@@ -158,6 +168,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box14{
@@ -169,6 +180,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box15{
@@ -180,6 +192,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box16{
@@ -191,6 +204,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box17{
@@ -202,6 +216,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box18{
@@ -213,6 +228,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box19{
@@ -224,6 +240,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box20{
@@ -235,6 +252,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box21{
@@ -246,6 +264,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box22{
@@ -257,6 +276,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box23{
@@ -268,6 +288,7 @@ margin-right: 20px;
     color: cyan;
 font-size: 50px;
 margin-right: 20px;
+text-align: center;
 }
 
 #box24{
@@ -278,6 +299,7 @@ margin-right: 20px;
     margin-top: 50px;
     color: cyan;
 font-size: 50px;
+text-align: center;
 }
 
 
