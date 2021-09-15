@@ -6,20 +6,46 @@ padding: 0;
 
 }
 
-<<<<<<< HEAD
-#header{
-    width: 100%;
-    height: 100px;
-    display: block;
-    text-align: left;
-    color: rgb(30, 0, 255);
-    background-color: #191630;
-=======
-
 .row{
     margin-left: 22px;
->>>>>>> 589a5e7b68e042b5d7563ad9548e3b253f87adda
 }
+
+
+ .header{
+   height: 70px;
+  
+ }
+
+ #rifles{
+     margin-left: 260px;
+color: darkgreen;
+font-size: 30px;
+ }
+
+ #knifes{
+margin-left: 260px;
+color: darkgreen;
+font-size: 30px;
+ }
+
+ #glove{
+margin-left: 260px;
+color: darkgreen;
+font-size: 30px;
+ }
+
+ #pistols{
+margin-left: 260px;
+color: darkgreen;
+font-size: 30px;
+ }
+
+ #stickers{
+     margin-left: 260px;
+     color: darkgreen;
+     font-size: 30px;
+ }
+
 
 #box{
     width: 270px;
