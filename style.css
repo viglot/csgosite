@@ -5,9 +5,8 @@ color: #6d6d6d;
 }
 
 #head{
-  
    color: white;
-
+user-select: none;
 }
 
 #rifles{
@@ -302,8 +301,29 @@ font-size: 50px;
 text-align: center;
 }
 
+#box25{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: cyan;
+    margin-right: 20px;
+}
 
 
+#box26{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: cyan;
+}
 
 .column {
     float: left;
