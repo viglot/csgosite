@@ -1,16 +1,14 @@
 *{
 background-color: #241f47;
 color: #6d6d6d;
+margin: 0;
+padding: 0;
 
 }
 
-#head{
-   color: white;
-user-select: none;
-}
 
-#rifles{
-
+.row{
+    margin-left: 22px;
 }
 
 
@@ -323,6 +321,55 @@ text-align: center;
     font-size: 50px;
     text-align: center;
     color: cyan;
+  
+}
+
+#box27{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: cyan;
+  margin-left: 20px;
+}
+
+#box28{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: cyan;
+  margin-left: 20px;
+}
+
+#box29{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: cyan;
+  margin-left: 20px;
+}
+
+#box30{
+    width: 270px;
+    height: 270px;
+    background-color: red;
+    border: solid 6px black;
+    margin-top: 50px;
+    font-size: 50px;
+    text-align: center;
+    color: cyan;
+  margin-left: 20px;
 }
 
 .column {
