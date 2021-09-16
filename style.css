@@ -56,6 +56,11 @@ background-color: #191630;
      background-color: #191630;
  }
 
+ #login{
+     margin-left: 160px;
+     font-size: 20px;
+ }
+
 
 #box{
     width: 270px;
