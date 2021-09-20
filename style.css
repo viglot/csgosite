@@ -15,14 +15,23 @@ a:hover {
     margin-left: 22px;
 }
 
+a{
+    text-decoration: none;
+}
 
+#logo{
+    position: absolute;
+    
+}
 
  .header{
    height: 100px;
    width: 100%;
 background-color: #191630;
-
+align-items: center;
+padding-top: 40px;
  }
+ 
 
  #rifles{
      margin-left: 250px;
@@ -59,361 +68,392 @@ background-color: #191630;
 #box{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px rgb(0, 0, 0);
 margin-top: 50px;
 margin-right: 20px;
 text-align: center;
-color: cyan;
+color: #191630;
 font-size: 50px;
+border-radius: 10px;
 }
 
 #box2{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
     margin-right: 20px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box3{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-right: 20px;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box4{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
     margin-right: 20px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box5{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box6{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box7{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box8{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box9{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box10{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box11{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box12{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box13{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box14{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box15{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box16{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box17{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box18{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box19{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box20{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box21{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box22{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box23{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 margin-right: 20px;
 text-align: center;
+border-radius: 10px;
 }
 
 #box24{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
-    color: cyan;
+    color: #191630;
 font-size: 50px;
 text-align: center;
+border-radius: 10px;
 }
+
 
 #box25{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
     font-size: 50px;
     text-align: center;
-    color: cyan;
+    color: #191630;
     margin-right: 20px;
+    border-radius: 10px;
 }
 
 
 #box26{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
     font-size: 50px;
     text-align: center;
-    color: cyan;
+    color: #191630;
+    border-radius: 10px;
   
 }
 
 #box27{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
     font-size: 50px;
     text-align: center;
-    color: cyan;
+    color: #191630;
   margin-left: 20px;
+  border-radius: 10px;
 }
 
 #box28{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
     font-size: 50px;
     text-align: center;
-    color: cyan;
+    color: #191630;
   margin-left: 20px;
+  border-radius: 10px;
 }
 
 #box29{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
     font-size: 50px;
     text-align: center;
-    color: cyan;
+    color: #191630;
   margin-left: 20px;
+border-radius: 10px;
 }
 
 #box30{
     width: 270px;
     height: 270px;
-    background-color: red;
+    background-color: rgb(201, 0, 0);
     border: solid 6px black;
     margin-top: 50px;
     font-size: 50px;
     text-align: center;
-    color: cyan;
+    color: #191630;
   margin-left: 20px;
+  border-radius: 10px;
 }
 
 .column {
